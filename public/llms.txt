@@ -1,0 +1,70 @@
+# Ghostair — Generative Engine Optimization Map
+
+> A cycling accessories product focused on a revolutionary tire insert that permanently prevents flat tires (punctures) on bicycle wheels. The product solves a universal pain point for cyclists — the frustration of getting a flat — by offering a one-time, definitive solution. The brand positioning is bold and results-driven, with a strong promise of reliability and peace of mind for riders.
+
+---
+
+## Pages
+
+### בית
+https://ghostair-f46b67d1.zappy5.app
+הכנסו לעולם שבו פנצ&#39;רים הם נחלת העבר. Ghostair מציעה תוסף צמיג מהפכני שמונע תקרים באופן קבוע, ומעניק לכם שקט נפשי וביטחון מלא בכל רכיבה. גלו את הפתרון הסופי לרוכבים.
+
+### תודה - Ghostair
+https://ghostair-f46b67d1.zappy5.app/thank-you
+Ghostair - תודה - Ghostair
+
+## Legal & Policy
+
+### Privacy Policy
+https://ghostair-f46b67d1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ghostair-f46b67d1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ghostair-f46b67d1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ghostair-f46b67d1.zappy5.app
+- Endpoint: https://ghostair-f46b67d1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ghostair
+A cycling accessories product focused on a revolutionary tire insert that permanently prevents flat tires (punctures) on bicycle wheels. The product solves a universal pain point for cyclists — the frustration of getting a flat — by offering a one-time, definitive solution. The brand positioning is bold and results-driven, with a strong promise of reliability and peace of mind for riders.
+
+## Target Audience
+- רוכבי אופניים נלהבים
+- רוכבי עיר לעבודה
+- רוכבים מודעים לסביבה
+
+## Industry
+Cycling Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ghostair-f46b67d1.zappy5.app/sitemap.xml
+- Robots: https://ghostair-f46b67d1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ghostair-f46b67d1.zappy5.app/llms-full.txt

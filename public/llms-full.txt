@@ -2,13 +2,13 @@
 
 A cycling accessories product focused on a revolutionary tire insert that permanently prevents flat tires (punctures) on bicycle wheels. The product solves a universal pain point for cyclists — the frustration of getting a flat — by offering a one-time, definitive solution. The brand positioning is bold and results-driven, with a strong promise of reliability and peace of mind for riders.
 
-Source: https://ghostair-f46b67d1.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תשכחו מפנצ&#39;רים לתמיד — Ghostair
 
-URL: https://ghostair-f46b67d1.zappy5.app
+URL: https://example.com
 Description: הכנסו לעולם שבו פנצ&#39;רים הם נחלת העבר. Ghostair מציעה תוסף צמיג מהפכני שמונע תקרים באופן קבוע, ומעניק לכם שקט נפשי וביטחון מלא בכל רכיבה. גלו את הפתרון הסופי לרוכבים.
 
 תשכחו מפנצ'רים לתמיד — Ghostair
@@ -612,7 +612,7 @@ Ghostair – הגנה בלתי נראית בתוך הצמיג. טכנולוגי�
 
 ## מדיניות פרטיות
 
-URL: https://ghostair-f46b67d1.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -859,7 +859,7 @@ Ghostair – הגנה בלתי נראית בתוך הצמיג. טכנולוגי�
 
 ## הצהרת נגישות
 
-URL: https://ghostair-f46b67d1.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1115,7 +1115,7 @@ Ghostair – הגנה בלתי נראית בתוך הצמיג. טכנולוגי�
 
 ## תנאי שימוש
 
-URL: https://ghostair-f46b67d1.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1390,7 +1390,7 @@ Ghostair – הגנה בלתי נראית בתוך הצמיג. טכנולוגי�
 
 ## תודה - Ghostair
 
-URL: https://ghostair-f46b67d1.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Ghostair - תודה - Ghostair
 
 תודה - Ghostair
